@@ -1,0 +1,33 @@
+{
+    "format": "cadcraft-edition",
+    "version": 1,
+    "app": "detailcraft",
+    "name": "DetailCraft",
+    "edition": "browser",
+    "release": "dev",
+    "semver": "dev",
+    "tag": "detailcraft-vdev",
+    "zip": "detailcraft-browser-edition-vdev.zip",
+    "packed_at": "2026-10-22T11:31:09Z",
+    "from": {
+        "build": "dev",
+        "released_at": null,
+        "git": null
+    },
+    "license": "Apache-2.0",
+    "libs": {
+        "noble-ciphers": "2.4.0",
+        "noble-curves": "2.4.0",
+        "noble-hashes": "2.4.0",
+        "three": "0.186.1",
+        "bootstrap": "5.3.8",
+        "bootstrap-icons": "1.13.2",
+        "archivo": "5.2.8"
+    },
+    "changes_to_copied_files": [
+        "Library URLs written as /assets/vendor/<lib>/current/ are pinned to the versions listed in release.json."
+    ],
+    "files": 224,
+    "bytes_before_this_file": 8220320,
+    "notes": null
+}
